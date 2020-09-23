@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/item_transisi_satu"
+        android:duration="5000" />
+
+    <item android:drawable="@drawable/item_transisi_dua"
+        android:duration="6000" />
+
+    <item android:drawable="@drawable/item_transisi_tiga"
+        android:duration="6000" />
+
+</animation-list>
